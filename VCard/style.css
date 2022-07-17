@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Source Code Pro', monospace;
+	background: #9A9B85;
 }
 
 
@@ -76,26 +77,6 @@ opacity: 0.5;
 	margin: auto;
 }
 
-/* 
-
-.elementToFadeInAndOut {
-    -webkit-animation: fadeinout 4s linear forwards;
-    animation: fadeinout 4s linear forwards;
-}
-
-@-webkit-keyframes fadeinout {
-  0%,100% { opacity: 0; }
-  50% { opacity: 1; }
-}
-
-@keyframes fadeinout {
-  0%,100% { opacity: 0; }
-  50% { opacity: 1; }
-} */
-
-
-/* CSS DA PÁGINA FOTOS */
-
 nav {
 	position: relative;
 	padding-top: 80%;
@@ -130,20 +111,5 @@ opacity: 0.5;
 .b-fotos:hover{
 opacity: 0.5;
 }
-
-
-/* 
-nav a {
-	text-transform: uppercase;
-	color: #000000;
-	font-weight: bold;
-	font-size: 22px;
-	text-decoration: none;
-}
-
-nav a:hover {
-	color: #C78C19;
-	text-decoration: underline;
-} */
 
 /* CSS DA PÁGINA AVALIAÇÃO */
