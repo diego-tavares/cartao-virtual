@@ -1,2 +1,0 @@
-# vcard
-Cartão Virtual
