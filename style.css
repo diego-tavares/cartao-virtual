@@ -1,0 +1,113 @@
+/* CSS GLOBAL */
+
+body {
+    font-family: 'Source Code Pro', monospace;
+	background: #9A9B85;
+	line-height: 150%;
+}
+
+
+/* CSS DA PÁGINA INICIAL */
+
+.background {
+	position: absolute;
+}
+
+
+.atuacao {
+	position:relative;
+	text-align: center;
+	padding-top: 60%;
+	color: #515243;
+	
+}
+
+.botoes {
+	position: relative;
+	padding-top: 55%;
+
+}
+
+.chamada {
+	padding-left: 12%;
+	
+}
+.chamada:hover{
+opacity: 0.5;
+}
+
+.whatsapp {
+	transition: 400ms;
+}
+.whatsapp:hover{
+opacity: 0.5;
+}
+
+.fotos {
+	transition: 400ms;
+}
+.fotos:hover{
+opacity: 0.5;
+}
+
+.redesocial {
+	transition: 400ms;
+}
+.redesocial:hover{
+opacity: 0.5;
+}
+
+.avaliacao {
+	transition: 400ms;
+}
+.avaliacao:hover{
+opacity: 0.5;
+}
+
+
+.toque {
+	position: absolute;
+	padding-top: 150%;
+	
+}
+
+.absolute {
+	position: absolute;
+	text-align: center;
+	background: none;
+	margin: auto;
+}
+
+nav {
+	position: relative;
+	padding-top: 80%;
+	margin: auto ;
+	padding-left:0;	
+
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+.paginainicial {
+	transition: 400ms;
+}
+.paginainicial:hover{
+opacity: 0.5;
+}
+
+.b-avaliacao {
+	transition: 400ms;
+}
+.b-avaliacao:hover{
+opacity: 0.5;
+}
+
+.b-fotos {
+	transition: 400ms;
+}
+.b-fotos:hover{
+opacity: 0.5;
+}
