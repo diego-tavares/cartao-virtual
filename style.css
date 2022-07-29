@@ -15,7 +15,11 @@ main {
 	position: absolute;
 }
 
-
+h2 {
+ font-size: 18px;
+ font-weight: bold;
+ color: #515243;
+}
 .atuacao {
 	position:relative;
 	text-align: center;

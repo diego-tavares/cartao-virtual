@@ -48,7 +48,7 @@
   /* Modal Content */
   .modal-content {
     position: relative;
-    background-color: #fefefe;
+    background-color: #515243;;
     margin: auto;
     padding: 0;
     width: 90%;
@@ -121,8 +121,13 @@
     text-align: center;
     background-color: #515243;
     padding: 2px 16px;
-    color: white;
+    color: #fefefe;
     font-size: 30px;
+    box-sizing: border-box;
+    border-color: #fefefe;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
   }
   
   img.demo {
