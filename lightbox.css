@@ -21,6 +21,8 @@
     padding-left: 10%;
     width: 260px;
     height: 180px;
+    max-width: 300px;
+    max-height: 250px;
   }
   
   /* Create four equal columns that floats next to eachother */

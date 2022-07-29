@@ -1,11 +1,13 @@
 /* CSS GLOBAL */
 
 body {
-    font-family: 'Source Code Pro', monospace;
-	background: #9A9B85;
+    background: #9A9B85;
 	line-height: 150%;
 }
 
+main {
+	font-family: 'Source Code Pro', monospace;
+}
 
 /* CSS DA PÁGINA INICIAL */
 
@@ -24,12 +26,12 @@ body {
 
 .botoes {
 	position: relative;
-	padding-top: 55%;
+	padding-top: 45%;
 
 }
 
 .chamada {
-	padding-left: 12%;
+	padding-left: 6%;
 	
 }
 .chamada:hover{
@@ -62,13 +64,6 @@ opacity: 0.5;
 }
 .avaliacao:hover{
 opacity: 0.5;
-}
-
-
-.toque {
-	position: absolute;
-	padding-top: 150%;
-	
 }
 
 .absolute {
@@ -110,4 +105,38 @@ opacity: 0.5;
 }
 .b-fotos:hover{
 opacity: 0.5;
+}
+
+
+/* Comentários */
+
+.comentarios {
+	padding-top: 35%;
+	text-align: center;
+	
+	line-height: 300%;
+	margin: auto;
+}
+
+
+h1 {
+	font-size: 50px;
+	line-height: 300%;
+	text-align: center;
+	font-weight: bold;
+}
+
+.bloco-comentarios {
+	text-align: justify;
+	margin: auto 5% auto 5%;
+}
+
+.nome-estrelas{
+	line-height: 400%;
+	font-size: 45px;
+}
+
+.texto-comentario {
+	line-height: 125%;
+	font-size: 35px;
 }
